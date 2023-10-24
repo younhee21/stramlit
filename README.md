@@ -1,2 +1,2 @@
-# stramlit
-stramlit file
+# streamlit
+streamlit file
